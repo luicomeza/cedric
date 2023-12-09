@@ -1,16 +1,39 @@
 body {
-    background-image: url(https://pixabay.com/photos/mountains-lake-fall-alps-autumnal-8357180/);
+    background-image: url(https://cdn.pixabay.com/photo/2018/02/27/23/03/autumn-3186876_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: sans-serif;
-    padding: 20px
+    padding: 10%
+    
 }
 
-h1, h2, p {text-align: center;}
+h1, h2, p, section{text-align: center;}
+
+legend {margin:0 auto}
+
+ul, ol {
+    list-style-position: inside;
+    text-align: center;
+}
 
 lists {
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
 
 .intro {
-    width: 80%
+    width: 70%;
+    background-color: orange;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
 }   
+
+footer {
+    background-color:coral;
+    width:70%;
+    padding:20px;
+    margin-left: auto;
+    margin-right: auto;
+}

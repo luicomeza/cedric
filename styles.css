@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://pixabay.com/photos/mountains-lake-fall-alps-autumnal-8357180/);
+    font-family: sans-serif;
+    padding: 20px
+}
+
+h1, h2, p {text-align: center;}
+
+lists {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.intro {
+    width: 80%
+}   

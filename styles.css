@@ -16,6 +16,10 @@ ul, ol {
     text-align: center;
 }
 
+ul {
+    font-size: larger;
+}
+
 lists {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
@@ -36,4 +40,9 @@ footer {
     padding:20px;
     margin-left: auto;
     margin-right: auto;
+}
+
+img {
+    width:50%;
+    height:50%;
 }

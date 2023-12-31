@@ -49,5 +49,6 @@ img {
 
 .dog {
     width:20%;
-    height:20%
+    height:20%;
+    display:inline-block
 }
